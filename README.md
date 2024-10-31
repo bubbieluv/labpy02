@@ -35,5 +35,9 @@ Hasil Program:
 Tidak wajib bayar pajak rumah
 
 # Latihan 3 Penggunaan kondisi or program membandingkan 3 input bilangan, apabila penjumlahan 2 bilangan hasilnya sama dengan bilangan lainnya, maka cetak pernyataan "BENAR"
+![Screenshot (30)](https://github.com/user-attachments/assets/b220d617-0301-4f0b-b588-1726fd332a79)
+
+Input Data:
+
 
 
