@@ -44,6 +44,9 @@ Pengecekan Kondisi:
  - Kode ini mengecek apakah salah satu dari tiga bilangan (a, b, atau c) dapat merupakan hasil penjumlahan dari dua bilangan lainnya. Pada contoh output di sebelah kanan gambar: Jika a = 30, b = 20, dan c = 10, maka ada kondisi yang terpenuhi, sehingga hasilnya adalah "BENAR".
 
 # Latihan 3 Kasus 1 pemesanan tiket bioskop
+berikut adalah flowchart nya:
+
+![flowchart 3 kasus 1](https://github.com/user-attachments/assets/5a943b84-399a-433e-b3dd-1e4ce34bbf8d)
 ![Screenshot (31)](https://github.com/user-attachments/assets/e99643b0-f2c0-4cc9-a741-2f1a0d19d77b)
 
 program ini dijalankan untuk menghitung total harga tiket bioskop. Program ini meminta input dari user untuk tipe tiket (reguler atau VIP) dan status member (memiliki kartu member atau tidak).
