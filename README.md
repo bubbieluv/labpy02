@@ -44,6 +44,7 @@ Pengecekan Kondisi:
  - Kode ini mengecek apakah salah satu dari tiga bilangan (a, b, atau c) dapat merupakan hasil penjumlahan dari dua bilangan lainnya. Pada contoh output di sebelah kanan gambar: Jika a = 30, b = 20, dan c = 10, maka ada kondisi yang terpenuhi, sehingga hasilnya adalah "BENAR".
 
 # Latihan 3 Kasus 1 pemesanan tiket bioskop
+![Screenshot (31)](https://github.com/user-attachments/assets/e99643b0-f2c0-4cc9-a741-2f1a0d19d77b)
 
 program ini dijalankan untuk menghitung total harga tiket bioskop. Program ini meminta input dari user untuk tipe tiket (reguler atau VIP) dan status member (memiliki kartu member atau tidak).
 
@@ -63,6 +64,26 @@ Mengecek status member untuk diskon:
 
  Menampilkan total harga yang harus dibayar:
   - Program menampilkan total harga yang harus dibayar dengan format "Total harga yang harus dibayar: Rp(total_harga)" menggunakan fungsi print().
+
+# Latihan 3 Kasus 2 Program kalkulator sederhana
+
+Kode program ini dirancang untuk melakukan operasi aritmatika sederhana berdasarkan input pengguna. Berikut penjelasan kode secara detail:
+
+Input:
+ - Kode program meminta pengguna untuk memasukkan operator aritmatika (+, -, *, /) dan dua angka.
+
+Validasi Operator:
+ - Kode menggunakan struktur if-elif-else untuk memvalidasi operator yang dimasukkan.
+
+Operasi Aritmatika:
+ - Berdasarkan operator yang valid, kode melakukan operasi aritmatika yang sesuai dan menyimpan hasilnya dalam variabel hasil.
+
+Validasi Pembagian dengan Nol:
+ - Kode mengecek apakah angka kedua adalah nol untuk menghindari pembagian dengan nol. Jika angka kedua nol, program akan menampilkan pesan error dan menghentikan eksekusi.
+
+Output: 
+ - Jika operator valid dan operasi berhasil dilakukan, kode mencetak hasil perhitungan ke layar. Jika operator tidak valid atau terjadi pembagian dengan nol, kode mencetak pesan error. Secara keseluruhan, kode ini mengilustrasikan penggunaan struktur kontrol if-elif-else untuk membuat program sederhana yang dapat melakukan operasi aritmatika dasar.
+
     
 
 
