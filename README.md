@@ -34,3 +34,6 @@ Hasil Program:
  - Pada contoh output di sisi kanan gambar, jika gaji 80.000.000, status berkeluarga "T", dan punya rumah "Y": Program menampilkan bahwa gaji di atas UMR. Menampilkan bahwa pengguna Tidak perlu ikutan asuransi
 Tidak wajib bayar pajak rumah
 
+# Latihan 3 Penggunaan kondisi or program membandingkan 3 input bilangan, apabila penjumlahan 2 bilangan hasilnya sama dengan bilangan lainnya, maka cetak pernyataan "BENAR"
+
+
