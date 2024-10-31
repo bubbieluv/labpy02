@@ -38,6 +38,13 @@ Tidak wajib bayar pajak rumah
 ![Screenshot (30)](https://github.com/user-attachments/assets/b220d617-0301-4f0b-b588-1726fd332a79)
 
 Input Data:
+ - Kode ini meminta pengguna untuk memasukkan tiga bilangan: a, b, dan c. Input dari pengguna dikonversi ke tipe int agar dapat digunakan dalam operasi aritmatika.
+
+Pengecekan Kondisi:
+ - Kode ini mengecek apakah salah satu dari tiga bilangan (a, b, atau c) dapat merupakan hasil penjumlahan dari dua bilangan lainnya. Pada contoh output di sebelah kanan gambar: Jika a = 30, b = 20, dan c = 10, maka ada kondisi yang terpenuhi, sehingga hasilnya adalah "BENAR".
+
+
+
 
 
 
