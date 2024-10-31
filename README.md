@@ -69,6 +69,9 @@ Mengecek status member untuk diskon:
   - Program menampilkan total harga yang harus dibayar dengan format "Total harga yang harus dibayar: Rp(total_harga)" menggunakan fungsi print().
 
 # Latihan 3 Kasus 2 Program kalkulator sederhana
+berikut adalah flowchart nya:
+
+![flowchart 3 kasus 2](https://github.com/user-attachments/assets/ffda8704-2b99-4cb2-89e7-d1c85a6e87ca)
 ![Screenshot (32)](https://github.com/user-attachments/assets/94e1b658-078d-4edc-b4ac-5fde79789f0b)
 Kode program ini dirancang untuk melakukan operasi aritmatika sederhana berdasarkan input pengguna. Berikut penjelasan kode secara detail:
 
